@@ -73,7 +73,7 @@ $ find ./ -iname *.bin|xargs ls -l
 
 ### 제출현황
 
-## Team 1 : (Project Name)
+## Team X : (Project Name)
 
 * (간단한 Project ABC 소개)
 * Members
@@ -85,56 +85,3 @@ $ find ./ -iname *.bin|xargs ls -l
   | 이영자 | Web |
 * Project Github : https://github.com/abcde/fghij
 * 발표자료 : https://github.com/kccistc/issue/123/slide.ppt
-
-## Team 2 : (Project Name)
-
-* (간단한 Project EFG 소개)
-* Members
-  | Name | Role |
-  |----|----|
-  | 김영희 | AI Model |
-  | 최철수 | GUI |
-  | 고길동 | Server |
-  | 이영자 | Web |
-* Project Github : https://github.com/abcde/fghij
-* 발표자료 : https://github.com/kccistc/issue/123/slide.ppt
-
-## Team 3 : (Project Name)
-
-* (간단한 Project HIJ 소개)
-* Members
-  | Name | Role |
-  |----|----|
-  | 김영희 | AI Model |
-  | 최철수 | GUI |
-  | 고길동 | Server |
-  | 이영자 | Web |
-* Project Github : https://github.com/abcde/fghij
-* 발표자료 : https://github.com/kccistc/issue/123/slide.ppt
-
-## Team 4 : (Project Name)
-
-* (간단한 Project KLM 소개)
-* Members
-  | Name | Role |
-  |----|----|
-  | 김영희 | AI Model |
-  | 최철수 | GUI |
-  | 고길동 | Server |
-  | 이영자 | Web |
-* Project Github : https://github.com/abcde/fghij
-* 발표자료 : https://github.com/kccistc/issue/123/slide.ppt
-
-## Team 5 : (Project Name)
-
-* (간단한 Project NOP 소개)
-* Members
-  | Name | Role |
-  |----|----|
-  | 김영희 | AI Model |
-  | 최철수 | GUI |
-  | 고길동 | Server |
-  | 이영자 | Web |
-* Project Github : https://github.com/abcde/fghij
-* 발표자료 : https://github.com/kccistc/issue/123/slide.ppt
-
