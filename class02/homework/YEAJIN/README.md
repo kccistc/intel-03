@@ -1,1 +1,1 @@
-dir for intel SW academy, class01
+dir for intel SW academy, class02
