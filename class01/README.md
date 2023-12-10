@@ -49,11 +49,11 @@
 | HongJongHyun (myreporthjh) | n/a | O | O | O | - | - | max5982 |
 | KwonGangHyeon (kenGwon) | n/a | O | O | O | - | - | max5982 |
 | ParkDohyeon (DohyeonP) | n/a | O | O | O | - | - | max5982 |
-| wooleejun (dndlwns) | n/a | O | O | O | - | - | max5982 |
-| Myungjun Kim (Yuriel849) | n/a | O | O | O | - | - | max5982 |
-| WooChangMin (woochang0110) | n/a | O | O | O | - | - | max5982 |
-| ParkYongGeun (yg-park) | n/a | O | O | O | - | - | max5982 |
-| LeeHyunWoo (hyun-woooo) | n/a | O | O | O | - | - | max5982 |
+| wooleejun (dndlwns) | n/a | O | O | O | - | - | mokiya |
+| Myungjun Kim (Yuriel849) | n/a | O | O | O | - | - | mokiya |
+| WooChangMin (woochang0110) | n/a | O | O | O | - | - | mokiya |
+| ParkYongGeun (yg-park) | n/a | O | O | O | - | - | mokiya |
+| LeeHyunWoo (hyun-woooo) | n/a | O | O | O | - | - | mokiya |
 | Kimgyuwon (exitdoor4) | n/a | O | O | O | - | - | mokiya |
 | JungJuHwan (oz971124) | n/a | O | O | O | - | - | mokiya |
 | WangJeongHyun (WangJeongHyun) | n/a | O | O | O | - | - | mokiya |
