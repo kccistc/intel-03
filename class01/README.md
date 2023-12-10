@@ -41,7 +41,7 @@
 |-------------------------------|---------|------|------|-------|-----|-----|----------|
 | ParkJinWuk (ParkJinwuk) | n/a | O | O | O | - | - | max5982 |
 | kangjaehwan (znsi) | n/a | O | O | O | - | - | max5982 |
-| KimHyuckKu (KimHyuckku) | n/a | O | O | O | - | - | mokiya |
+| KimHyuckKu (KimHyuckku) | n/a | O | O | O | - | - | max5982 |
 | JeongJuHee (juhee67) | n/a | O | O | O | - | - | max5982 |
 | 05 KimYoungHee (abcde) | n/a | O | O | X | - | - | max5982 |
 | EumYeaJin (Amaziniverse) | n/a | O | O | O | - | - | max5982 |
