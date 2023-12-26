@@ -24,7 +24,7 @@ def simulate_factory() -> None:
             if ctrl.red:
                 ctrl.red = ctrl.DEV_OFF
             else:
-                ctrl.red = ctrl.DEV_ON
+                ctrl.red = ctrl.DEV_ONexit
         elif entry == '4':
             if ctrl.orange:
                 ctrl.orange = ctrl.DEV_OFF
