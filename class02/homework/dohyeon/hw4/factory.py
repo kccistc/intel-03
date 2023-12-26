@@ -75,14 +75,11 @@ def thread_cam1(q, force_stop):
         probs = predictions.reshape(-1)
 
         if probs[0] > 0.0:
-            print("Bad Item!")
+            print("X")
+            # in queue for moving the actuator 1
+            q.put(("PUSH", 1))
         else:
-            print("Good Item!")
-
-        # Calculate ratios
-        # print(f"X = {x_ratio:.2f}%, Circle = {circle_ratio:.2f}%")
-
-        # in queue for moving the actuator 1
+            print("O")
 
     cap.release()
     q.put(('DONE', None))
