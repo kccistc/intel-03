@@ -34,30 +34,31 @@
 * HW#1 : [Github Issue 실습](https://github.com/kccistc/intel-03/issues/2)
 * HW#2 : [Github PR 실습](https://github.com/kccistc/intel-03/issues/3)
 * HW#3 : [README에 본인 이름 수정 후 제출](https://github.com/kccistc/intel-03/issues/6)
-* HW#4 :
-* HW#5 :
+* HW#4 : [CNN_practics]
+* HW#5 : [openCV]
+* HW#6 : [openvino]
 
-| 영문이름 (GitHub id)           | Team No | HW#1 | HW#2 | HW#3 | HW#4 | HW#5 | Reviewer |
-|-------------------------------|---------|------|------|-------|-----|-----|----------|
-| ParkJinWuk (ParkJinwuk) | 2 | O | O | O | - | - | max5982 |
-| kangjaehwan (znsi) | 2 | O | O | O | - | - | max5982 |
-| KimHyuckKu (KimHyuckku) | 2 | O | O | O | - | - | max5982 |
-| JeongJuHee (juhee67) | 1 | O | O | O | - | - | max5982 |
-| JinWoosun (abbblin) | 1 | O | O | O | - | - | max5982 |
-| EumYeaJin (Amaziniverse) | 1 | O | O | O | - | - | max5982 |
-| JinwanKim (JinwanK) | 4 | O | O | O | - | - | max5982 |
-| HongJongHyun (myreporthjh) | 4 | O | O | O | - | - | max5982 |
-| KwonGangHyeon (kenGwon) | 4 | O | O | O | - | - | max5982 |
-| ParkDohyeon (DohyeonP) | 3 | O | O | O | - | - | max5982 |
-| wooleejun (dndlwns) | 3 | O | O | O | - | - | mokiya |
-| Myungjun Kim (Yuriel849) | 3 | O | O | O | - | - | mokiya |
-| WooChangMin (woochang0110) | 5 | O | O | O | - | - | mokiya |
-| ParkYongGeun (yg-park) | 5 | O | O | O | - | - | mokiya |
-| LeeHyunWoo (hyun-woooo) | 5 | O | O | O | - | - | mokiya |
-| Kimgyuwon (exitdoor4) | 6 | O | O | O | - | - | mokiya |
-| JungJuHwan (oz971124) | 6 | O | O | O | - | - | mokiya |
-| WangJeongHyun (WangJeongHyun) | 6 | O | O | O | - | - | mokiya |
-| KimJimin (jimeaning) | 6 | O | O | O | - | - | mokiya |
+| 영문이름 (GitHub id)           | Team No | HW#1 | HW#2 | HW#3 | Reviewer | HW#4 | HW#5 | HW#6 | Reviewer |
+|-------------------------------|---------|------|------|-------|----------|------|------|-------|----------|
+| ParkJinWuk (ParkJinwuk) | 2 | O | O | O | max5982 | - | - | - | J-WBaek |
+| kangjaehwan (znsi) | 2 | O | O | O | max5982 | - | - | - | J-WBaek |
+| KimHyuckKu (KimHyuckku) | 2 | O | O | O | max5982 | - | - | - | J-WBaek |
+| JeongJuHee (juhee67) | 1 | O | O | O | max5982 | - | - | - | J-WBaek |
+| JinWoosun (abbblin) | 1 | O | O | O | max5982 | - | - | - | J-WBaek |
+| EumYeaJin (Amaziniverse) | 1 | O | O | O | max5982 | - | - | - | J-WBaek |
+| JinwanKim (JinwanK) | 4 | O | O | O | max5982 | - | - | - | J-WBaek |
+| HongJongHyun (myreporthjh) | 4 | O | O | O | max5982 | - | - | - | J-WBaek |
+| KwonGangHyeon (kenGwon) | 4 | O | O | O | max5982 | - | - | - | J-WBaek |
+| ParkDohyeon (DohyeonP) | 3 | O | O | O | max5982 | - | - | - | J-WBaek |
+| wooleejun (dndlwns) | 3 | O | O | O | mokiya | - | - | - | J-WBaek |
+| Myungjun Kim (Yuriel849) | 3 | O | O | O | mokiya | - | - | - | J-WBaek |
+| WooChangMin (woochang0110) | 5 | O | O | O | mokiya | - | - | - | J-WBaek |
+| ParkYongGeun (yg-park) | 5 | O | O | O | mokiya | - | - | - | J-WBaek |
+| LeeHyunWoo (hyun-woooo) | 5 | O | O | O |mokiya | - | - | - | J-WBaek |
+| Kimgyuwon (exitdoor4) | 6 | O | O | O | mokiya | - | - | - | J-WBaek |
+| JungJuHwan (oz971124) | 6 | O | O | O | mokiya | - | - | - | J-WBaek |
+| WangJeongHyun (WangJeongHyun) | 6 | O | O | O | mokiya | - | - | - | J-WBaek |
+| KimJimin (jimeaning) | 6 | O | O | O | mokiya | - | - | - | J-WBaek |
 
 ### Mini Projects
 
