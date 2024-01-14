@@ -70,11 +70,11 @@ $ find ./ -iname *.bin|xargs ls -l
 * Members
   | Name | Role |
   |----|----|
-  | 홍종현 | Project lead |
-  | 강재환 | Project manager |
-  | 김진완 | UI design |
-  | 김혁구 | AI modeling |
-  | 박진욱 | Architect |
+  | 홍종현 | Project Leader, Model1 점자 데이터셋 트레이닝, 모델 사용 및 객체 탐색 코드 구현, 전체 코드 통합 작업 |
+  | 강재환 | Braille Algorithm Developer, 점자 글자 변환 알고리즘 구현 |
+  | 김진완 | Architect, Model2 바이너리 값 추출, 모델 성능 평가 |
+  | 김혁구 | Project Manager, Hardware manager, Model1 데이터셋 수집 및 레이블링, 엣지 디바이스 설계 및 개발,  PC 소켓 통신 구현 |
+  | 박진욱 | Dataset Manager, 데이터셋 수집 및 레이블링 |
 * Project Github : https://github.com/myreporthjh/SoB.git
 * 발표자료 : 
 
