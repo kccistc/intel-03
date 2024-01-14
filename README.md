@@ -70,7 +70,7 @@ $ find ./ -iname *.bin|xargs ls -l
 * Members
   | Name | Role |
   |----|----|
-  | 홍종현 | Project lead |
+  | 홍종현 | Project lead  |
   | 강재환 | Project manager |
   | 김진완 | UI design |
   | 김혁구 | AI modeling |
