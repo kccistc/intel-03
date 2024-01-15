@@ -77,7 +77,7 @@ $ find ./ -iname *.bin|xargs ls -l
   | 김혁구 | Project Manager, Hardware manager, Model1 데이터셋 수집 및 레이블링, 엣지 디바이스 설계 및 개발,  PC 소켓 통신 구현 |
   | 박진욱 | Dataset Manager, 데이터셋 수집 및 레이블링 |
 * Project Github : https://github.com/myreporthjh/SoB.git
-* 발표자료 : https://github.com/myreporthjh/SoB/blob/main/doc/presentation.pptx
+* 발표자료 : [발표자료](https://github.com/myreporthjh/SoB/blob/main/doc/Sound_of_Braille.pptx)
 
 
 ### Team: BTS(Balsa Tracking System)
