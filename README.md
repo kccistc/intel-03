@@ -65,7 +65,8 @@ $ find ./ -iname *.bin|xargs ls -l
 * 발표자료 : https://github.com/yg-park/EOF_SeparateTrashCollection/blob/main/Documents/EOF_presentation.pptx
 
 
-### Team: 점자의 소리
+### Team: 점진적 개발자
+**점자의 소리:** 
 점자를 인식하고 문장으로 만들어서 소리로 출력하는 프로젝트
 * Members
   | Name | Role |
